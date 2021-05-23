@@ -1,0 +1,33 @@
+.child{
+    cursor: pointer;
+    margin-top: 10px;
+}
+.model{
+    background: cornsilk;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap:wrap;
+}
+.child_img{
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.Imageprev{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+ .btn{
+     width: 100px;
+      position: relative;
+     font-size: larger;
+ }
+ .small_img:hover{
+filter: grayscale(100%);
+     transform: scale(1.1);
+ }
