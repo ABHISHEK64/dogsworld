@@ -1,6 +1,7 @@
 import React from 'react'
 import  Modal  from '@material-ui/core/Modal';
 import ClearIcon from '@material-ui/icons/Clear'; 
+import './About.css';
 const List = (list) => {
     const [open, setOpen] =React.useState(false);
 
