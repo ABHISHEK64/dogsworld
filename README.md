@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### heroku deployed :
+Link of site:https://dogsworld.herokuapp.com/
+### methord used to build this site
+ 1. Class Componet used in home section /home page
+ 2. Aout page  but in site as Breed page
+ 3. Two methord of site i used one is axios used in about  and second is fetch used in home 
+
