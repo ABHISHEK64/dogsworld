@@ -5,6 +5,7 @@ import Home from './Component/Home';
 import About from './Component/About';
 import {Route, Switch} from "react-router-dom";
 import Footer from './Component/Footer';
+import DogsSearchImg from './Component/DogsSearchImg';
 function App() {
   return (
        <> 
@@ -17,6 +18,9 @@ function App() {
           </Route>
          <Route  exact path='/Breeds' >
            <About/>
+         </Route>
+         <Route exact path='/Search'>
+         <DogsSearchImg/>
          </Route>
          
        </Switch>

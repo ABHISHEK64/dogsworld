@@ -1,0 +1,28 @@
+.Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://previews.123rf.com/images/cnuisin/cnuisin1911/cnuisin191100294/136543322-dog-paw-seamless-pattern-bone-vector-footprint-pet-toy-french-bulldog-cartoon-scarf-isolated-repeat-.jpg");
+    
+}
+button{
+    display: flex;
+    align-items: center;
+    background-color: transparent !important;
+    border: 2px solid rgb(93, 92, 129);
+    color: black;
+
+}
+input{
+    width: 0.1px;
+    height: 0.1px;
+    overflow: hidden;
+    position: absolute;
+    opacity: 0;
+
+
+}
